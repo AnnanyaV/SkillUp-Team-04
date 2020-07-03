@@ -1,4 +1,4 @@
-# apiteam04
+# API
 
 Flask RESTful API for Sports resources booking Application<br>
 This API has been deployed onto Heroku.<br>
