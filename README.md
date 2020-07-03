@@ -2,16 +2,17 @@
 
 PROBLEM STATEMENT
 ```
-Users:
-- Login
-- View previous question papers sorted sem wise year wise branch wise etc
-- Gets upload notification (can upload a picture)
+ADMIN:
+- HOD Reg & Login (name,dept, etc) 
+- Dashboard to view all the outpass applications
+- Open outpass applications to read the reason description and grant permission or decline or ask to come to the cabin.
+- Set and modify the number of outpasses  a student can apply
+- Outpass Tracking of every student in the form of calendar
 
-Admin:
-- Login
-- Upload examination time tables/edit 
-- According to time tables, after the exam ends, users get notified to upload Qpaper (automatic)
-- Views all requests for particular exam, branch, year verifies and clicks upload
-- When uploaded, that exam slot should disable upload option and display paper(automatic)
-- Change uploaded picture
+USER:
+- Student Reg & Login (name,dept,roll number,year, etc) 
+- Apply for outpass (Reason, etc)
+- Check the status of previously applied outpasses (total history)
+- Check remaining outpasses
+- If eligible outpasses are over should not allow applying to outpass
 ```
